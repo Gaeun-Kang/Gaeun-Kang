@@ -13,7 +13,6 @@ I love to combine tech & art and I'm trying to create those things.***
 <a href = "https://hungrykang.tistory.com/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/blog-orange?style=flat&logo=undertale&logoColor=white">  <img alt="Static Badge" src="https://img.shields.io/badge/1805gaeun%40gmail.com-red?style=flat&logo=Gmail&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white">
 
 
-
 ### 🔭Languages🔭
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -32,15 +31,9 @@ I love to combine tech & art and I'm trying to create those things.***
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
 ### 🎯 Intersting 🎯
 
 🎮🎨🎞️ 
 
-
-### 📌 Stats 📌
-
-![Gaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaeun-Kang&show_icons=true&theme=cobalt)
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeun-Kang&theme=cobalt)]
 
 </div>
